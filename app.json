@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "techment-test",
-    "slug": "techment-test",
+    "name": "fdf1400141904365ddd1",
+    "slug": "fdf1400141904365ddd1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.techment.techment",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.techment.techment",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
